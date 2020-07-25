@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HeadsAndHandsTestApp</string>
+    <string name="no_connection">Отсутствует подключение к интернету</string>
+    <string name="connected">Выполнено подключение к интернету</string>
+
+<!--    MainActivity-->
+    <string name="authorization">Авторизация</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="create">Создать</string>
+    <string name="no_internet">Что-то пошло не так. Пожалуйста, проверьте ваше интернет-соединение</string>
+    <string name="input_all_fields">Заполните все поля</string>
+    <string name="input_correct_email">Введите корректный E-mail</string>
+    <string name="password_not_allowed">Пароль - минимум 6 символов, должен обязательно содержать минимум 1 строчную букву, 1 заглавную, и 1 цифру</string>
+</resources>
